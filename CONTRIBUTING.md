@@ -17,7 +17,7 @@ npm install -g pnpm
 pnpm install
 ```
 
-- Build the dependencies
+- Build the dependencies h
 
 ```bash
 pnpm build
